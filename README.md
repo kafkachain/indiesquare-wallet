@@ -1,4 +1,4 @@
-# IndieSquare wallet
+# TrigX streamIOT wallet
 ---
 
 # Carry Tokens wherever you go!
